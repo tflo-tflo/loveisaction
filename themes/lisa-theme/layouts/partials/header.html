@@ -5,11 +5,10 @@
 
 <body>
 
-<div class="info">
-  <ul class="block pt2">
-    <li class="left"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></li>
-    {{- range first 10 .Data.Pages }}
-      <li class="left ml2"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{- end }}
-  </ul>
-</div>
+  <div class="info">
+    <ul class="block pt2">
+      {{- range .Site.Pages.ByDate.Reverse }}
+        <li class="left ml2"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{- end }}
+    </ul>
+  </div>

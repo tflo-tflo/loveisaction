@@ -1,11 +1,12 @@
 @font-face {
   font-family: "Akkurat-Reg";
   src: url("/fonts/lineto-akkurat-regular-c.woff") format('woff');
-  font-weight: bold;
+  font-weight: 700;
 }
 @font-face {
   font-family: "Akkurat-Bold";
   src: url("/fonts/lineto-akkurat-bold-c.woff") format('woff');
+  font-weight: 400;
 }
 body {
   color: #00a6e9;
@@ -21,6 +22,7 @@ h2,
 h3,
 h4 {
   font-family: Akkurat-Bold, sans-serif;
+  font-weight: none;
   margin: 0;
   padding: 0;
 }
@@ -33,6 +35,9 @@ a:hover {
 }
 ul {
   list-style: none;
+}
+li:first-child {
+  margin-left: 0;
 }
 .info {
   background-color: #fff;
