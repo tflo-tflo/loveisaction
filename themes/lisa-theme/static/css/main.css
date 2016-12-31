@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "Akkurat-Reg";
+  src: url("/fonts/lineto-akkurat-regular-c.woff") format('woff');
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Akkurat-Bold";
+  src: url("/fonts/lineto-akkurat-bold-c.woff") format('woff');
+}
+body {
+  color: #00a6e9;
+  font-family: Akkurat-Reg, sans-serif;
+  font-size: 14pt;
+  line-height: 1.25em;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: Akkurat-Bold, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #00a6e9;
+}
+a:hover {
+  text-decoration: none;
+  background-color: #f9ffcc;
+}
+ul {
+  list-style: none;
+}
+.info {
+  background-color: #fff;
+  display: block;
+  font-size: 0.75em;
+  width: 100%;
+}
+.content {
+  padding: 1em;
+  max-width: 1400px;
+}
+.hero {
+  width: 100%;
+}
+.hero img {
+  max-width: 40em;
+}

@@ -1,0 +1,5 @@
+baseurl = "http://loveisaction.net"
+languageCode = "en-us"
+theme = "lisa-theme"
+title = "Love is Action"
+relativeURLs = true
