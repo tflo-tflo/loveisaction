@@ -22,9 +22,12 @@ h2,
 h3,
 h4 {
   font-family: Akkurat-Bold, sans-serif;
-  font-weight: none;
   margin: 0;
   padding: 0;
+}
+h1 {
+  font-size: 5em;
+  line-height: 1em;
 }
 a {
   color: #00a6e9;
@@ -40,7 +43,6 @@ li:first-child {
   margin-left: 0;
 }
 .info {
-  background-color: #fff;
   display: block;
   font-size: 0.75em;
   width: 100%;
@@ -53,5 +55,5 @@ li:first-child {
   width: 100%;
 }
 .hero img {
-  max-width: 40em;
+  max-width: 4em;
 }
