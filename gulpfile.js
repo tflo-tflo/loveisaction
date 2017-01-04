@@ -7,6 +7,8 @@ gulp.task('styles', function() {
     .pipe(gulp.dest('themes/lisa-theme/static/css/'));
 });
 
-gulp.task('default', function() {
-  gulp.start('styles');
+gulp.task('default', ['styles', 'watch']);
+
+gulp.task('watch', function() {
+  gulp.watch('themes/lisa-theme/static/css/*.styl', ['styles'])
 });
