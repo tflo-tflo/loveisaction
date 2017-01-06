@@ -1,10 +1,11 @@
-.content {
-  padding: 1em;
-  max-width: 1200px;
-}
 .info {
   display: block;
   font-size: 0.75em;
+}
+.content {
+  padding: 1em;
+  width: 1200px;
+  max-width: 1400px;
 }
 .hero {
   width: 100%;

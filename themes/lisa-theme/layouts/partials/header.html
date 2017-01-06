@@ -4,9 +4,9 @@
 </head>
 
 <body>
-
-  <div class="info">
-    <ul class="list-reset block pt2">
+<div class="content clearfix mx-auto">
+  <div class="info overflow-auto mb4">
+    <ul class="list-reset block">
       {{- range .Site.Pages.ByDate.Reverse }}
         <li class="left ml2"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{- end }}
