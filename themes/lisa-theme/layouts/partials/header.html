@@ -6,7 +6,7 @@
 <body>
 
   <div class="info">
-    <ul class="block pt2">
+    <ul class="list-reset block pt2">
       {{- range .Site.Pages.ByDate.Reverse }}
         <li class="left ml2"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{- end }}
