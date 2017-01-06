@@ -65,10 +65,10 @@ a:hover {
 .info {
   display: block;
   font-size: 0.75em;
-  width: 100%;
 }
 .content {
   padding: 1em;
+  width: 1200px;
   max-width: 1400px;
 }
 .hero {
