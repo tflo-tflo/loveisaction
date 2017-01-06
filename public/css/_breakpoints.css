@@ -1,0 +1,16 @@
+.no-mobile {
+  display: none;
+}
+@media screen and (min-width: 500px) {
+  .no-mobile {
+    display: block;
+  }
+}
+.mobile-only {
+  display: block;
+}
+@media screen and (min-width: 500px) {
+  .mobile-only {
+    display: none;
+  }
+}

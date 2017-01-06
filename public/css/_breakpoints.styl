@@ -1,0 +1,29 @@
+// Breakpoints
+$mobile = 330px
+$tablet = 500px
+$desktop = 1000px
+$wide-desktop = 1300px
+
+// To create min-width media queries
+above(width)
+  @media screen and (min-width: width)
+    {block}
+
+// To create max-width media queries
+below(width)
+  @media screen and (max-width: width)
+    {block}
+
+// Hide on mobile
+.no-mobile
+  display: none
+
+  +above($tablet)
+    display block
+
+// Only on mobile
+.mobile-only
+  display: block
+
+  +above($tablet)
+    display none
