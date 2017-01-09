@@ -77,7 +77,7 @@ Environment</a></li>
       <li class="mb1"><a href="http://kcsarc.org" target="blank">King County Sexual Assault
 Resource Center</a></li>
       <li class="mb1"><a href="http://rewa.org" target="blank">Refugee Women’s Alliance</a></li>
-      <li class="mb1"><a href="http://thetrevorproject.org" target="blank"></a>The Trevor Project</li>
+      <li class="mb1"><a href="http://thetrevorproject.org" target="blank">The Trevor Project</a></li>
       <li class="mb1"><a href="http://wscadv.org" target="blank">Washington State Coalition Against Domestic Violence</a></li>
     </ul>
   </div>
