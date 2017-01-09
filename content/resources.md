@@ -15,7 +15,7 @@ title = "Resources"
   <div class="md-col lg-col-10 md-col-12 sm-col-12">
     <ul class="list-reset m0">
       <li class="mb1"><a href="http://leadwithlove.vision" target="blank">#LeadWithLove</a></li>
-      <li class="mb1"><a href="http://goo.gl/iC5ued" target="blank">spcl–Ten Ways to Fight Hate: A Community Response Guide</a></li>
+      <li class="mb1"><a href="http://goo.gl/iC5ued" target="blank"><span class="caps">spcl</span> &ndash;	Ten Ways to Fight Hate: A Community Response Guide</a></li>
       <li class="mb1"><a href="http://movementstrategy.org" target="blank">Movement Strategy Center</a></li>
       <li class="mb1"><a href="http://thedreamcorps.org" target="blank">Dream Corps #LoveArmy Project</a></li>
     </ul>
@@ -57,7 +57,7 @@ title = "Resources"
   <div class="md-col lg-col-10 md-col-12 sm-col-12">
     <ul class="list-reset m0">
       <li class="mb1"><a href="http://climatesolutions.org" target="blank">Climate Solutions</a></li>
-      <li class="mb1"><a href="http://prochoiceamerica.org" target="blank">naral Pro-Choice America</a></li>
+      <li class="mb1"><a href="http://prochoiceamerica.org" target="blank"><span class="caps">naral</span> Pro-Choice America</a></li>
       <li class="mb1"><a href="http://transequality.org" target="blank">National Center for Trans Equality</a></li>
       <li class="mb1"><a href="http://nilc.org" target="blank">National Immigration Law Center</a></li>
       <li class="mb1"><a href="http://safeschoolscoalition.org" target="blank">Safe Schools Coalition</a></li>
@@ -75,7 +75,7 @@ title = "Resources"
 Environment</a></li>
       <li class="mb1"><a href="http://elcentrodelaraza.org" target="blank">El Centro de la Raza</a></li>
       <li class="mb1"><a href="http://legalvoice.org" target="blank">Legal Voice</a></li>
-      <li class="mb1"><a href="http://allyship.org" target="blank">lgbtq Allyship</a></li>
+      <li class="mb1"><a href="http://allyship.org" target="blank"><span class="caps">lgbtq</span> Allyship</a></li>
       <li class="mb1"><a href="http://kcsarc.org" target="blank">King County Sexual Assault
 Resource Center</a></li>
       <li class="mb1"><a href="http://rewa.org" target="blank">Refugee Women’s Alliance</a></li>
