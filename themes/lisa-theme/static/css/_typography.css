@@ -17,6 +17,7 @@ h4 {
 }
 h1 {
   font-size: 5em;
+  letter-spacing: -0.035em;
   line-height: 1em;
 below($tablet)
 }
@@ -26,7 +27,7 @@ h2 {
 }
 h3 {
   font-size: 1.5em;
-  line-height: 1em;
+  line-height: 1.25em;
 }
 h4 {
   border-bottom: 2px solid $brand;
