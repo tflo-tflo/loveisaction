@@ -4,14 +4,16 @@ title = "Resources"
 
 +++
 
-## Volunteer, Donate, Research
-
 <div class="mt2 mb2">
-  <div class="col col-2">
+
+  <h2 class="mb3">Volunteer, Donate, Research</h2>
+
+<div class="clearfix mb3">
+  <div class="md-col lg-col-2 md-col-12 sm-col-12 mb1">
     <h4>Love</h4>
   </div>
-  <div class="col col-10">
-    <ul class="list-reset">
+  <div class="md-col lg-col-10 md-col-12 sm-col-12">
+    <ul class="list-reset m0">
       <li class="mb1"><a href="http://leadwithlove.vision" target="blank">#LeadWithLove</a></li>
       <li class="mb1"><a href="http://goo.gl/iC5ued" target="blank">spcl–Ten Ways to Fight Hate: A Community Response Guide</a></li>
       <li class="mb1"><a href="http://movementstrategy.org" target="blank">Movement Strategy Center</a></li>
@@ -20,12 +22,12 @@ title = "Resources"
   </div>
 </div>
 
-<div>
-  <div class="col col-2">
+<div class="clearfix mb3">
+  <div class="md-col lg-col-2 md-col-12 sm-col-12 mb1">
     <h4>Speak up</h4>
   </div>
-  <div class="col col-10">
-    <ul class="list-reset">
+  <div class="md-col lg-col-10 md-col-12 sm-col-12">
+    <ul class="list-reset m0">
       <li class="mb1"><a href="http://usa.gov/elected-officials" target="blank">Contact Federal Ellected Officials</a></li>
       <li class="mb1"><a href="http://equalrightswashington.org" target="blank">Equal Rights Washington</a></li>
       <li class="mb1"><a href="http://injusticeboycott.com" target="blank">Injustice Boycott</a></li>
@@ -35,12 +37,12 @@ title = "Resources"
   </div>
 </div>
 
-<div>
-  <div class="col col-2">
+<div class="clearfix mb3">
+  <div class="md-col lg-col-2 md-col-12 sm-col-12 mb1">
     <h4>Help</h4>
   </div>
-  <div class="col col-10">
-    <ul class="list-reset">
+  <div class="md-col lg-col-10 md-col-12 sm-col-12">
+    <ul class="list-reset m0">
       <li class="mb1"><a href="http://centerfortheworkingpoor.org" target="blank">Center for the Working Poor</a></li>
       <li class="mb1"><a href="http://naacp.org" target="blank">National Association for the Advancement of Colored People</a></li>
       <li class="mb1"><a href="http://support.fm" target="blank">Support.fm</a></li>
@@ -48,12 +50,12 @@ title = "Resources"
   </div>
 </div>
 
-<div>
-  <div class="col col-2">
+<div class="clearfix mb3">
+  <div class="md-col lg-col-2 md-col-12 sm-col-12 mb1">
     <h4>Learn</h4>
   </div>
-  <div class="col col-10">
-    <ul class="list-reset">
+  <div class="md-col lg-col-10 md-col-12 sm-col-12">
+    <ul class="list-reset m0">
       <li class="mb1"><a href="http://climatesolutions.org" target="blank">Climate Solutions</a></li>
       <li class="mb1"><a href="http://prochoiceamerica.org" target="blank">naral Pro-Choice America</a></li>
       <li class="mb1"><a href="http://transequality.org" target="blank">National Center for Trans Equality</a></li>
@@ -63,12 +65,12 @@ title = "Resources"
   </div>
 </div>
 
-<div>
-  <div class="col col-2">
+<div class="clearfix mb3">
+  <div class="md-col lg-col-2 md-col-12 sm-col-12 mb1">
     <h4>Ask</h4>
   </div>
-  <div class="col col-10">
-    <ul class="list-reset">
+  <div class="md-col lg-col-10 md-col-12 sm-col-12">
+    <ul class="list-reset m0">
       <li class="mb1"><a href="http://cdeinspires.org" target="blank">Center for Diversity and the
 Environment</a></li>
       <li class="mb1"><a href="http://elcentrodelaraza.org" target="blank">El Centro de la Raza</a></li>
@@ -83,12 +85,12 @@ Resource Center</a></li>
   </div>
 </div>
 
-<div>
-  <div class="col col-2">
+<div class="clearfix mb3">
+  <div class="md-col lg-col-2 md-col-12 sm-col-12 mb1">
     <h4>Show up</h4>
   </div>
-  <div class="col col-10">
-    <ul class="list-reset">
+  <div class="md-col lg-col-10 md-col-12 sm-col-12">
+    <ul class="list-reset m0">
       <li class="mb1"><a href="http://blacklivesmatter.com" target="blank">Black Lives Matter</a></li>
       <li class="mb1"><a href="http://joincampaignzero.org" target="blank">Campaign Zero</a></li>
       <li class="mb1"><a href="http://standwithstandingrock.net" target="blank">Stand with Standing Rock</a></li>
@@ -98,12 +100,12 @@ Resource Center</a></li>
   </div>
 </div>
 
-<div>
-  <div class="col col-2">
+<div class="clearfix mb3">
+  <div class="md-col lg-col-2 md-col-12 sm-col-12 mb1">
     <h4>Care</h4>
   </div>
-  <div class="col col-10">
-    <ul class="list-reset">
+  <div class="md-col lg-col-10 md-col-12 sm-col-12">
+    <ul class="list-reset m0">
       <li class="mb1"><a href="http://reproductiverights.org" target="blank">Center for Reproductive Rights</a></li>
       <li class="mb1"><a href="http://dredf.org" target="blank">Disability Rights Education and Defense Fund</a></li>
       <li class="mb1"><a href="http://llaa.org" target="blank">Lifelong Aids Alliance</a></li>
@@ -112,12 +114,12 @@ Resource Center</a></li>
   </div>
 </div>
 
-<div>
-  <div class="col col-2">
+<div class="clearfix mb3">
+  <div class="md-col lg-col-2 md-col-12 sm-col-12 mb1">
     <h4>Share</h4>
   </div>
-  <div class="col col-10">
-    <ul class="list-reset">
+  <div class="md-col lg-col-10 md-col-12 sm-col-12">
+    <ul class="list-reset m0">
       <li class="mb1"><a href="http://farestart.org" target="blank">Fare Start</a></li>
       <li class="mb1"><a href="http://foodlifeline.org" target="blank">Food Line</a></li>
       <li class="mb1"><a href="http://northwestharvest.org" target="blank">Northwest Harvest</a></li>
@@ -126,12 +128,12 @@ Resource Center</a></li>
   </div>
 </div>
 
-<div>
-  <div class="col col-2">
+<div class="clearfix mb3">
+  <div class="md-col lg-col-2 md-col-12 sm-col-12 mb1">
     <h4>Respect</h4>
   </div>
-  <div class="col col-10">
-    <ul class="list-reset">
+  <div class="md-col lg-col-10 md-col-12 sm-col-12">
+    <ul class="list-reset m0">
       <li class="mb1"><a href="http://cair.com" target="blank">Council on American Islamic
 Relations</a></li>
       <li class="mb1"><a href="http://weareoneamerica.org" target="blank">OneAmerica</a></li>
@@ -140,12 +142,12 @@ Relations</a></li>
   </div>
 </div>
 
-<div>
-  <div class="col col-2">
+<div class="clearfix mb3">
+  <div class="md-col lg-col-2 md-col-12 sm-col-12 mb1">
     <h4>Listen</h4>
   </div>
-  <div class="col col-10">
-    <ul class="list-reset">
+  <div class="md-col lg-col-10 md-col-12 sm-col-12">
+    <ul class="list-reset m0">
       <li class="mb1"><a href="http://greenforall.org" target="blank">#Green for All</a></li>
       <li class="mb1"><a href="http://indigenousrising.org" target="blank">Indigenous Rising</a></li>
       <li class="mb1"><a href="http://shelflifestories.com" target="blank">Shelf Life Stories</a></li>
@@ -155,12 +157,12 @@ Reporting</a></li>
   </div>
 </div>
 
-<div>
-  <div class="col col-2">
+<div class="clearfix mb3">
+  <div class="md-col lg-col-2 md-col-12 sm-col-12 mb1">
     <h4>Protect</h4>
   </div>
-  <div class="col col-10">
-    <ul class="list-reset">
+  <div class="md-col lg-col-10 md-col-12 sm-col-12">
+    <ul class="list-reset m0">
       <li class="mb1"><a href="http://350.org" target="blank">350</a></li>
       <li class="mb1"><a href="http://aclu.org" target="blank">American Civil Liberties Union</a></li>
       <li class="mb1"><a href="http://amnestyusa.org" target="blank">Amnesty International</a></li>
@@ -176,4 +178,6 @@ Reporting</a></li>
       <li class="mb1"><a href="http://transrelief.com" target="blank">Trans Relief Project</a></li>
     </ul>
   </div>
+</div>
+
 </div>
