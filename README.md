@@ -8,7 +8,7 @@
 
 ## Deployment (WIP)
 
-We are using **now** by zeit for super simple deployment. Note that **there is currently only a production environment, so every deploy *will* go to production**. This is a temporary situation; we'll likely introduce a "staging" deploy shortly that will go to one of their aliased subdomains e.g. loveisaction.now.sh.
+We are using **now** by zeit for super simple deployment. 
 
 ### Deployment steps!
 
@@ -22,7 +22,10 @@ We are using **now** by zeit for super simple deployment. Note that **there is c
 1. If you've never deployed before, run `npm run login`
   * When asked for your email, provide `services@substantial.com`
   * Open a browser, log into the services@substantial.com gmail account (available through LastPass; if not, talk to Jen), and click the link from now@zeit.co
-1. Deploy: `npm run deploy`
+1. Run `hugo` to make sure that you've built the latest version to `public`, which is the directory that gets deployed
+1. Run one of two scripts depending on whether you're pushing to staging or production:
+  * `npm run stage` will push the app to staging
+  * `npm run prod` will push the app to production
 
 <br>
 The script should automagically:

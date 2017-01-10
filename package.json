@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "login": "now -L",
-    "deploy": "./deploy.sh"
+    "prod": "./prod.sh",
+    "stage": "./stage.sh"
   },
   "author": "Substantial",
   "license": "ISC",
