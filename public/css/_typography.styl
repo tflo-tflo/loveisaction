@@ -21,17 +21,34 @@ h4
 
 h1
   font-size: 5em
+  letter-spacing: -0.035em
   line-height: 1em
   +below($tablet)
     font-size: 3em
 
+h2
+  font-size: 2.5em
+  line-height: 1em
+
+h3
+  font-size: 1.5em
+  line-height: 1.25em
+
+h4
+  border-bottom: 2px solid $brand
+  display: inline-block
+  font-size: 1em
+  letter-spacing: .12em
+  line-height: 1em
+  padding-bottom: .25em
+  text-transform: uppercase
+
 a
   color: $brand
+  font-size: 100%
 
-a:hover
+a:hover,
+a:visited,
+a:active
   text-decoration: none
   background-color: $highlight
-
-ul
-  margin: 0
-  padding: 0

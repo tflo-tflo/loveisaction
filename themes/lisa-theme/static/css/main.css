@@ -75,8 +75,11 @@ h4 {
 }
 a {
   color: #09b3f7;
+  font-size: 100%;
 }
-a:hover {
+a:hover,
+a:visited,
+a:active {
   text-decoration: none;
   background-color: #f9ffcc;
 }
@@ -96,10 +99,10 @@ a:hover {
   left: 0;
 }
 .hero-animation:nth-child(1) {
-  animation-delay: 0.5s;
+  animation-delay: 0.2s;
 }
 .hero-animation:nth-child(2) {
-  animation-delay: 3s;
+  animation-delay: 1s;
 }
 @-moz-keyframes text-fade {
   0% {

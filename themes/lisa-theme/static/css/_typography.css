@@ -40,8 +40,11 @@ h4 {
 }
 a {
   color: $brand;
+  font-size: 100%;
 }
-a:hover {
+a:hover,
+a:visited,
+a:active {
   text-decoration: none;
   background-color: $highlight;
 }
