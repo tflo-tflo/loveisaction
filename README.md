@@ -20,6 +20,7 @@
   * Open a browser, log into the services@substantial.com gmail account (available through LastPass; if not, talk to Jen), and click the link from now@zeit.co
 1. Deploy: `npm run deploy`
 
+<br>
 The script should automagically:
   * Deploy the contents of `public` to Zeit's hosting
   * Alias the site using the loveisaction.us domain
