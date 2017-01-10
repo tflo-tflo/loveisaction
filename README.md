@@ -6,7 +6,11 @@
 4. Start up Gulp by `gulp`
 5. Start up your server by `hugo server -v`
 
-# Deployment (WIP)
+## Deployment (WIP)
+
+We are using **now** by zeit for super simple deployment. Note that **there is currently only a production environment, so every deploy *will* go to production**. This is a temporary situation; we'll likely introduce a "staging" deploy shortly that will go to one of their aliased subdomains e.g. loveisaction.now.sh.
+
+### Deployment steps!
 
 1. `now` (the deployment tool we're using) should already be installed from your `npm install`; you can double-check that it's available by typing `npm ls now`, which should show you something like:
   ```
