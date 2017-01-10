@@ -4,7 +4,10 @@
   "description": "Love is Action static site",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "login": "now -L",
+    "prod": "./prod.sh",
+    "stage": "./stage.sh"
   },
   "author": "Substantial",
   "license": "ISC",
@@ -13,6 +16,7 @@
     "stylus": "^0.54.5"
   },
   "devDependencies": {
-    "gulp-install": "^0.6.0"
+    "gulp-install": "^0.6.0",
+    "now": "2.0.2"
   }
 }
