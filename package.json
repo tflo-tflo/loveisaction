@@ -17,6 +17,6 @@
   },
   "devDependencies": {
     "gulp-install": "^0.6.0",
-    "now": "1.0.0"
+    "now": "2.0.2"
   }
 }
