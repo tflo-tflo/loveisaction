@@ -6,9 +6,48 @@
   display: block;
   font-size: 0.75em;
 }
-.hero {
-  width: 100%;
+.hero-animation {
+  animation: text-fade 3s;
+  animation-fill-mode: forwards;
+  opacity: 0;
+  top: 0;
+  left: 0;
 }
-.hero img {
-  max-width: 4em;
+.hero-animation:nth-child(1) {
+  animation-delay: 0.2s;
+}
+.hero-animation:nth-child(2) {
+  animation-delay: 1s;
+}
+@-moz-keyframes text-fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.9;
+  }
+}
+@-webkit-keyframes text-fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.9;
+  }
+}
+@-o-keyframes text-fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.9;
+  }
+}
+@keyframes text-fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.9;
+  }
 }

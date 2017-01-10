@@ -1,14 +1,15 @@
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://unpkg.com/basscss@8.0.2/css/basscss.min.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
 
 <body>
 <div class="content clearfix mx-auto">
-  <div class="info overflow-auto mb4">
+  <div class="info overflow-auto mb3">
     <ul class="list-reset block">
       {{- range .Site.Pages.ByDate.Reverse }}
-        <li class="left ml2"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        <li class="left mr2"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
       {{- end }}
     </ul>
   </div>
