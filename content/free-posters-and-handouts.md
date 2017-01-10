@@ -13,15 +13,20 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     <div class="col-12">
       <h4>Poster</h4>
     </div>
-    <div class="sm-col sm-col-12 md-col-6 border pt1">
-      <a href="/pdf/loveisaction_poster.pdf" target="_blank"><img src="/img/poster.svg"></a>
+    <div class="col-12">
+      <div class="sm-col sm-col-12 md-col-6 border mt2">
+        <a href="/pdf/loveisaction_poster.pdf" target="_blank"><img src="/img/poster.svg"></a>
+      </div>
     </div>
-    <!-- <div class="sm-col sm-col-4 md-col-2 p2">
-      <a href="/"><img src="/img/poster_front.svg"></a>
+    <div class="overflow-hidden col-12">
+      <div class="sm-col sm-col-6 md-col-3">
+        <p class="center">Front</p>
+      </div>
+      <div class="sm-col sm-col-6 md-col-3">
+        <p class="center">Back</p>
+      </div>
     </div>
-    <div class="sm-col sm-col-4 md-col-2 p2">
-      <a href="/"><img src="/img/poster_back.svg"></a>
-    </div> -->
+
   </div>
 
 
@@ -29,9 +34,16 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     <div class="col-12">
       <h4>Takeaway</h4>
     </div>
-    <div class="sm-col sm-col-12 md-col-6">
+    <div class="sm-col sm-col-12 md-col-6 border mt2">
       <a href="/pdf/loveisaction_takeaway.pdf" target="_blank"><img src="/img/takeaway.svg"></a>
     </div>
+    <div class="overflow-hidden col-12">
+      <div class="sm-col sm-col-6 md-col-3">
+        <p class="center">Front</p>
+      </div>
+      <div class="sm-col sm-col-6 md-col-3">
+        <p class="center">Back</p>
+      </div>
   </div>
 
 
