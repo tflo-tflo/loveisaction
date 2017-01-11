@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <div>
 
   <div class="clearfix mt4">
-    <a href="/" target="_blank"><p>Download all files</p></a>
+    <a href="/pdf/loveisaction_all-files.zip" target="_blank"><p>Download all files</p></a>
   </div>
 
 
@@ -26,11 +26,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
         <a href="/pdf/loveisaction_poster.pdf" target="_blank"><img src="/img/poster.svg"></a>
       </div>
     </div>
-    <div class="overflow-hidden col-12">
-      <div class="sm-col sm-col-6 md-col-3">
+    <div class="sm-col-12 md-col-6">
+      <div class="col-6-override">
         <p class="center">Front</p>
       </div>
-      <div class="sm-col sm-col-6 md-col-3">
+      <div class="col-6-override">
         <p class="center">Back</p>
       </div>
     </div>
@@ -45,11 +45,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     <div class="sm-col sm-col-12 md-col-6 border">
       <a href="/pdf/loveisaction_takeaway.pdf" target="_blank"><img src="/img/takeaway.svg"></a>
     </div>
-    <div class="overflow-hidden col-12">
-      <div class="sm-col sm-col-6 md-col-3">
+    <div class="sm-col-12 md-col-6">
+      <div class="col-6-override">
         <p class="center">Front</p>
       </div>
-      <div class="sm-col sm-col-6 md-col-3">
+      <div class="col-6-override">
         <p class="center">Back</p>
       </div>
     </div>
