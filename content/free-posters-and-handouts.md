@@ -61,10 +61,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     <div class="col-12 mb2">
       <h4>Cards</h4>
     </div>
-    <div>
+    <div class="mb2">
       <a href="/pdf/loveisaction_cards.pdf" target="_blank">Download all</a>
     </div>
-    <div class="sm-col sm-col-4 md-col-2 p2">
+    <div class="sm-col sm-col-4 md-col-2">
       <a href="/pdf/loveisaction.pdf" target="_blank"><img src="/img/logo.svg"></a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
