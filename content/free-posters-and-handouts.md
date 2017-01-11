@@ -10,9 +10,16 @@ weight = 3
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <div>
+
+  <div class="clearfix mt4">
+    <a href="/" target="_blank"><p>Download all files</p></a>
+  </div>
+
+
   <div class="clearfix mt4">
     <div class="col-12 mb2">
       <h4>Poster</h4>
+      <p>Dimensions: 18" x 24"</p>
     </div>
     <div class="col-12">
       <div class="sm-col sm-col-12 md-col-6 border">
@@ -33,6 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
   <div class="clearfix mt4">
     <div class="col-12 mb2">
       <h4>Takeaway</h4>
+      <p>Dimensions: 8.5" x 11"</p>
     </div>
     <div class="sm-col sm-col-12 md-col-6 border">
       <a href="/pdf/loveisaction_takeaway.pdf" target="_blank"><img src="/img/takeaway.svg"></a>
