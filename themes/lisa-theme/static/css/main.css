@@ -83,6 +83,10 @@ a:active {
   text-decoration: none;
   background-color: #f9ffcc;
 }
+a:hover img {
+  background-color: #f9ffcc;
+  border-color: #fff;
+}
 .content {
   padding: 1em;
   max-width: 1200px;
@@ -103,6 +107,10 @@ a:active {
 }
 .hero-animation:nth-child(2) {
   animation-delay: 1s;
+}
+.col-6-override {
+  width: 50%;
+  float: left;
 }
 @-moz-keyframes text-fade {
   0% {
