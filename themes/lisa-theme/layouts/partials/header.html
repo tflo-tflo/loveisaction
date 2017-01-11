@@ -9,7 +9,7 @@
   <div class="info overflow-auto mb3">
     <ul class="list-reset block">
       {{- range .Site.Pages.ByWeight }}
-        <li class="left mr2"><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        <li class="left mr2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
       {{- end }}
     </ul>
   </div>
