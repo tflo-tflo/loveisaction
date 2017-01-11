@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <div>
 
   <div class="clearfix mt4">
-    <a href="/pdf/loveisaction_all-files.zip" target="_blank"><p>Download all files</p></a>
+    <a href="/pdf/loveisaction_all-files.zip" target="_blank">Download all files</a>
   </div>
 
 
@@ -58,10 +58,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 
   <div class="clearfix mt4">
-    <div class="col-12">
+    <div class="col-12 mb2">
       <h4>Cards</h4>
     </div>
-    <a href="/pdf/loveisaction_cards.pdf" target="_blank"><p>Download all</p></a>
+    <div>
+      <a href="/pdf/loveisaction_cards.pdf" target="_blank">Download all</a>
+    </div>
     <div class="sm-col sm-col-4 md-col-2 p2">
       <a href="/pdf/loveisaction.pdf" target="_blank"><img src="/img/logo.svg"></a>
     </div>
@@ -106,7 +108,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     <div class="col-12 mb2">
       <h4>Words</h4>
     </div>
-    <a href="/pdf/loveisaction_words.pdf" target="_blank"><p>Download all</p></a>
+    <div>
+      <a href="/pdf/loveisaction_words.pdf" target="_blank">Download all</a>
+    </div>
     <div class="sm-col sm-col-6 md-col-4 p2">
       <a href="/pdf/loveisaction_words-01.pdf" target="_blank"><img class="border" src="/img/words01.svg"></a>
     </div>
