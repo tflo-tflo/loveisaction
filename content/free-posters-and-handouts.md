@@ -11,29 +11,42 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <div>
   <div class="clearfix mt4">
-    <div class="col-12">
+    <div class="col-12 mb2">
       <h4>Poster</h4>
     </div>
-    <div class="sm-col sm-col-12 md-col-6 border pt1">
-      <a href="/pdf/loveisaction_poster.pdf" target="_blank"><img src="/img/poster.svg"></a>
+    <div class="col-12">
+      <div class="sm-col sm-col-12 md-col-6 border">
+        <a href="/pdf/loveisaction_poster.pdf" target="_blank"><img src="/img/poster.svg"></a>
+      </div>
     </div>
-    <!-- <div class="sm-col sm-col-4 md-col-2 p2">
-      <a href="/"><img src="/img/poster_front.svg"></a>
+    <div class="overflow-hidden col-12">
+      <div class="sm-col sm-col-6 md-col-3">
+        <p class="center">Front</p>
+      </div>
+      <div class="sm-col sm-col-6 md-col-3">
+        <p class="center">Back</p>
+      </div>
     </div>
-    <div class="sm-col sm-col-4 md-col-2 p2">
-      <a href="/"><img src="/img/poster_back.svg"></a>
-    </div> -->
   </div>
 
 
   <div class="clearfix mt4">
-    <div class="col-12">
+    <div class="col-12 mb2">
       <h4>Takeaway</h4>
     </div>
-    <div class="sm-col sm-col-12 md-col-6">
+    <div class="sm-col sm-col-12 md-col-6 border">
       <a href="/pdf/loveisaction_takeaway.pdf" target="_blank"><img src="/img/takeaway.svg"></a>
     </div>
+    <div class="overflow-hidden col-12">
+      <div class="sm-col sm-col-6 md-col-3">
+        <p class="center">Front</p>
+      </div>
+      <div class="sm-col sm-col-6 md-col-3">
+        <p class="center">Back</p>
+      </div>
+    </div>
   </div>
+
 
 
   <div class="clearfix mt4">
@@ -82,27 +95,27 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 
   <div class="clearfix mt4">
-    <div class="col-12">
+    <div class="col-12 mb2">
       <h4>Words</h4>
     </div>
     <a href="/pdf/loveisaction_words.pdf" target="_blank"><p>Download all</p></a>
     <div class="sm-col sm-col-6 md-col-4 p2">
-      <a href="/pdf/loveisaction_words-01.pdf" target="_blank"><img src="/img/words01.svg"></a>
+      <a href="/pdf/loveisaction_words-01.pdf" target="_blank"><img class="border" src="/img/words01.svg"></a>
     </div>
     <div class="sm-col sm-col-6 md-col-4 p2">
-      <a href="/pdf/loveisaction_words-02.pdf" target="_blank"><img src="/img/words02.svg"></a>
+      <a href="/pdf/loveisaction_words-02.pdf" target="_blank"><img class="border" src="/img/words02.svg"></a>
     </div>
     <div class="sm-col sm-col-6 md-col-4 p2">
-      <a href="/pdf/loveisaction_words-03.pdf" target="_blank"><img src="/img/words03.svg"></a>
+      <a href="/pdf/loveisaction_words-03.pdf" target="_blank"><img class="border" src="/img/words03.svg"></a>
     </div>
     <div class="sm-col sm-col-6 md-col-4 p2">
-      <a href="/pdf/loveisaction_words-04.pdf" target="_blank"><img src="/img/words04.svg"></a>
+      <a href="/pdf/loveisaction_words-04.pdf" target="_blank"><img class="border" src="/img/words04.svg"></a>
     </div>
     <div class="sm-col sm-col-6 md-col-4 p2">
-      <a href="/pdf/loveisaction_words-05.pdf" target="_blank"><img src="/img/words05.svg"></a>
+      <a href="/pdf/loveisaction_words-05.pdf" target="_blank"><img class="border" src="/img/words05.svg"></a>
     </div>
     <div class="sm-col sm-col-6 md-col-4 p2">
-      <a href="/pdf/loveisaction_words-06.pdf" target="_blank"><img src="/img/words06.svg"></a>
+      <a href="/pdf/loveisaction_words-06.pdf" target="_blank"><img class="border" src="/img/words06.svg"></a>
     </div>
   </div>
 
