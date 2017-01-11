@@ -48,3 +48,7 @@ a:active {
   text-decoration: none;
   background-color: $highlight;
 }
+a:hover img {
+  background-color: $highlight;
+  border-color: #fff;
+}

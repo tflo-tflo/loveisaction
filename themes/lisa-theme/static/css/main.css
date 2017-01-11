@@ -83,6 +83,10 @@ a:active {
   text-decoration: none;
   background-color: #f9ffcc;
 }
+a:hover img {
+  background-color: #f9ffcc;
+  border-color: #fff;
+}
 .content {
   padding: 1em;
   max-width: 1200px;

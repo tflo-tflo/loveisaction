@@ -22,8 +22,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
       <p>Dimensions: 18" x 24"</p>
     </div>
     <div class="col-12">
-      <div class="sm-col sm-col-12 md-col-6 border">
-        <a href="/pdf/loveisaction_poster.pdf" target="_blank"><img src="/img/poster.svg"></a>
+      <div class="sm-col sm-col-12 md-col-6">
+        <a href="/pdf/loveisaction_poster.pdf" target="_blank"><img class="border" src="/img/poster.svg"></a>
       </div>
     </div>
     <div class="sm-col-12 md-col-6">
@@ -42,8 +42,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
       <h4>Takeaway</h4>
       <p>Dimensions: 8.5" x 11"</p>
     </div>
-    <div class="sm-col sm-col-12 md-col-6 border">
-      <a href="/pdf/loveisaction_takeaway.pdf" target="_blank"><img src="/img/takeaway.svg"></a>
+    <div class="sm-col sm-col-12 md-col-6">
+      <a href="/pdf/loveisaction_takeaway.pdf" target="_blank"><img class="border" src="/img/takeaway.svg"></a>
     </div>
     <div class="sm-col-12 md-col-6">
       <div class="col-6-override">
