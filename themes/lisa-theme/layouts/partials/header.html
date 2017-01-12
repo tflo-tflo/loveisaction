@@ -7,6 +7,9 @@
 <body>
 <div class="content clearfix mx-auto">
   <div class="header info overflow-auto mb3">
+    <input type="checkbox" id="hamburger" />
+    <label for="nav-trigger" id="hamburger-helper"></label>
+
     <ul class="list-reset block">
       {{- range .Site.Pages.ByWeight }}
       <li class="left mr2 {{ .Slug }}">
@@ -16,7 +19,4 @@
       </li>
       {{- end }}
     </ul>
-
-    <input type="checkbox" id="hamburger" />
-    <label for="nav-trigger" id="hamburger-helper"></label>
   </div>

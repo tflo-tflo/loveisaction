@@ -111,6 +111,20 @@ a:hover img {
 .header ul .home a span {
   display: none;
 }
+.header #hamburger {
+  display: none;
+}
+@media screen and (max-width: 500px) {
+  .header #hamburger {
+    display: block;
+  }
+  .header ul li:not([class~="home"]) {
+    display: none;
+  }
+  .header #hamburger:checked ~ ul li {
+    display: block;
+  }
+}
 .hero-animation {
   animation: text-fade 3s;
   animation-fill-mode: forwards;

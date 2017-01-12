@@ -8,6 +8,7 @@
 }
 .header {
   margin-bottom: 1rem;
+below($tablet)
 }
 .header ul {
   display: flex;
@@ -20,6 +21,9 @@
   background-image: url("/img/logo.svg");
 }
 .header ul .home a span {
+  display: none;
+}
+.header #hamburger {
   display: none;
 }
 .hero-animation {
