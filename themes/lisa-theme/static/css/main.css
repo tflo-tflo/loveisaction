@@ -203,6 +203,11 @@ a:hover img {
   width: 50%;
   float: left;
 }
+@media screen and (max-width: 1000px) {
+  .sm-col-12 {
+    padding-left: 0;
+  }
+}
 @-moz-keyframes text-fade {
   0% {
     opacity: 0;
