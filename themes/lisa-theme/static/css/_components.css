@@ -16,8 +16,8 @@ below($tablet)
 }
 .header ul .home a {
   display: block;
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
   background-image: url("/img/logo.svg");
 }
 .header ul .home a span {
