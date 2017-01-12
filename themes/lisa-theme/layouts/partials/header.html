@@ -6,10 +6,14 @@
 
 <body>
 <div class="content clearfix mx-auto">
-  <div class="info overflow-auto mb3">
+  <div class="header info overflow-auto mb3">
     <ul class="list-reset block">
       {{- range .Site.Pages.ByWeight }}
-        <li class="left mr2"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      <li class="left mr2 {{ .Slug }}">
+        <a href="{{ .RelPermalink }}">
+          <span>{{ .Title }}</span>
+        </a>
+      </li>
       {{- end }}
     </ul>
   </div>

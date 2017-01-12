@@ -95,6 +95,22 @@ a:hover img {
   display: block;
   font-size: 0.75em;
 }
+.header {
+  margin-bottom: 1rem;
+}
+.header ul {
+  display: flex;
+  align-items: center;
+}
+.header ul .home a {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-image: url("/img/logo.svg");
+}
+.header ul .home a span {
+  display: none;
+}
 .hero-animation {
   animation: text-fade 3s;
   animation-fill-mode: forwards;
