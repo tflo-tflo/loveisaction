@@ -115,14 +115,47 @@ a:hover img {
   display: none;
 }
 @media screen and (max-width: 500px) {
+  .header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 120px;
+    background: #fff;
+    z-index: 1;
+  }
   .header #hamburger {
     display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .header ul {
+    flex-direction: column;
+    justify-content: center;
+    position: fixed;
+    align-items: center;
+    width: 100%;
+  }
+  .header ul .home {
+    position: absolute;
+    left: 0;
+    top: 0;
   }
   .header ul li:not([class~="home"]) {
     display: none;
   }
+  .header #hamburger:checked ~ ul {
+    height: 100%;
+    background: #fff;
+  }
   .header #hamburger:checked ~ ul li {
     display: block;
+  }
+}
+@media screen and (max-width: 500px) {
+  .header + div {
+    margin-top: 130px;
   }
 }
 .hero-animation {
