@@ -17,7 +17,7 @@ weight = 4
     </p>
 
     <div class="clearfix mt4 mb4">
-      <a href="/pdf/loveisaction_all-files.zip" target="_blank">Download all printable files</a>
+      <a href="/pdf/loveisaction_all-files.zip" target="_blank">Download all printable materials and graphics</a>
     </div>
 
   </div>
