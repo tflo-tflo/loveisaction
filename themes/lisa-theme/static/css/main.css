@@ -104,12 +104,87 @@ a:hover img {
 }
 .header ul .home a {
   display: block;
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
   background-image: url("/img/logo.svg");
 }
 .header ul .home a span {
   display: none;
+}
+.header ul li.home-mobile {
+  display: none;
+}
+.header #hamburger {
+  display: none;
+}
+@media screen and (max-width: 500px) {
+  .header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    background: #fff;
+    z-index: 1;
+    border-bottom: 1px solid #e8f8fe;
+  }
+  .header #hamburger {
+    position: absolute;
+    clip: rect(0, 0, 0, 0);
+  }
+  .header label[for="hamburger"] {
+    display: block;
+    position: absolute;
+    right: 1em;
+    top: 1em;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background-image: url("/img/open-menu.svg");
+    background-size: contain;
+    z-index: 1;
+  }
+  .header ul {
+    flex-direction: column;
+    justify-content: center;
+    position: fixed;
+    align-items: center;
+    width: 100%;
+  }
+  .header ul .home {
+    position: absolute;
+    left: 1em;
+    top: -0.25em;
+  }
+  .header ul .home a {
+    width: 50px;
+    height: 50px;
+  }
+  .header ul li:not([class~="home"]) {
+    display: none;
+  }
+  .header #hamburger:checked ~ label[for="hamburger"] {
+    background-image: url("/img/close-menu.svg");
+    background-size: contain;
+  }
+  .header #hamburger:checked ~ ul {
+    height: 100%;
+    background: #fff;
+  }
+  .header #hamburger:checked ~ ul li {
+    display: block;
+    margin: 0;
+    width: 45%;
+  }
+  .header #hamburger:checked ~ ul li span {
+    font-size: 1.5em;
+    line-height: 3;
+  }
+}
+@media screen and (max-width: 500px) {
+  .header + div {
+    margin-top: 80px;
+  }
 }
 .hero-animation {
   animation: text-fade 3s;

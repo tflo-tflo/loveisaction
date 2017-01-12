@@ -8,6 +8,7 @@
 }
 .header {
   margin-bottom: 1rem;
+below($tablet)
 }
 .header ul {
   display: flex;
@@ -15,11 +16,17 @@
 }
 .header ul .home a {
   display: block;
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
   background-image: url("/img/logo.svg");
 }
 .header ul .home a span {
+  display: none;
+}
+.header ul li.home-mobile {
+  display: none;
+}
+.header #hamburger {
   display: none;
 }
 .hero-animation {
