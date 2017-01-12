@@ -11,6 +11,11 @@
     <label for="hamburger" id="hamburger-helper"></label>
 
     <ul class="list-reset block">
+      <li class="left mr2 home-mobile">
+        <a href="/">
+          <span>Home</span>
+        </a>
+      </li>
       {{- range .Site.Pages.ByWeight }}
       <li class="left mr2 {{ .Slug }}">
         <a href="{{ .RelPermalink }}">

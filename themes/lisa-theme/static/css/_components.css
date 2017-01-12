@@ -16,11 +16,14 @@ below($tablet)
 }
 .header ul .home a {
   display: block;
-  width: 50px;
-  height: 50px;
+  width: 80px;
+  height: 80px;
   background-image: url("/img/logo.svg");
 }
 .header ul .home a span {
+  display: none;
+}
+.header ul li.home-mobile {
   display: none;
 }
 .header #hamburger {
