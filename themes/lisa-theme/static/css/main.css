@@ -166,6 +166,12 @@ a:hover img {
   }
   .header #hamburger:checked ~ ul li {
     display: block;
+    margin: 0;
+    width: 45%;
+  }
+  .header #hamburger:checked ~ ul li span {
+    font-size: 1.5em;
+    line-height: 3;
   }
 }
 @media screen and (max-width: 500px) {
