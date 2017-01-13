@@ -1,6 +1,6 @@
 +++
 weight = 1
-title = "Home"
+title = "Love is Action Home"
 slug = "home"
 
 +++
