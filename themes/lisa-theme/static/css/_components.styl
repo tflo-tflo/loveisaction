@@ -59,7 +59,7 @@
       flex-direction: column
       justify-content: center
       position: fixed
-      align-items: center
+      align-items: flex-start
       width: 100%
 
       .home
@@ -73,6 +73,7 @@
 
     ul li:not([class~="home"])
       display: none
+      margin-left: 80px
 
     #hamburger:checked ~ label[for="hamburger"]
       background-image: url("/img/close-menu.svg")
@@ -84,7 +85,6 @@
 
     #hamburger:checked ~ ul li
       display: block
-      margin: 0
       width: 45%
 
       span
