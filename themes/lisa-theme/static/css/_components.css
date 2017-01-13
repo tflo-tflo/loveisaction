@@ -23,6 +23,9 @@ below($tablet)
 .header ul .home a span {
   display: none;
 }
+.header ul .home a::after {
+  border-bottom: none;
+}
 .header ul li.home-mobile {
   display: none;
 }
@@ -50,6 +53,9 @@ below($tablet)
   height: 4em;
   margin-right: 1.5em;
   margin-bottom: 1em;
+}
+.no-underline::after {
+  border-bottom: none;
 }
 @-moz-keyframes text-fade {
   0% {
