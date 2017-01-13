@@ -47,7 +47,9 @@ below($tablet)
   float: left;
 }
 .header-svg {
-  max-height: 4em;
+  height: 4em;
+  margin-right: 1.5em;
+  margin-bottom: 1em;
 }
 @-moz-keyframes text-fade {
   0% {
