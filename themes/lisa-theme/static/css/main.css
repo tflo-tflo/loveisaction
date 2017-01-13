@@ -208,6 +208,9 @@ a:hover img {
     padding-left: 0;
   }
 }
+.header-svg {
+  max-height: 4em;
+}
 @-moz-keyframes text-fade {
   0% {
     opacity: 0;
