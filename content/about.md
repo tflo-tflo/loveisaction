@@ -16,7 +16,7 @@ weight = 4
       We're neighbors on Pine street in the Capitol Hill area in Seattle, WA.
     </p>
 
-    <div class="clearfix mt4 mb4">
+    <div class="clearfix mt3 mb3">
       <a href="/pdf/loveisaction_all-files.zip" target="_blank">Download all printable materials and graphics</a>
     </div>
 
