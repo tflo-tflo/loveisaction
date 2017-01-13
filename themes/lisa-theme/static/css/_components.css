@@ -46,6 +46,11 @@ below($tablet)
   width: 50%;
   float: left;
 }
+.header-svg {
+  height: 4em;
+  margin-right: 1.5em;
+  margin-bottom: 1em;
+}
 @-moz-keyframes text-fade {
   0% {
     opacity: 0;
