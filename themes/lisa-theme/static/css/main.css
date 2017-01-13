@@ -148,7 +148,7 @@ a:hover img {
     flex-direction: column;
     justify-content: center;
     position: fixed;
-    align-items: center;
+    align-items: flex-start;
     width: 100%;
   }
   .header ul .home {
@@ -162,6 +162,7 @@ a:hover img {
   }
   .header ul li:not([class~="home"]) {
     display: none;
+    margin-left: 80px;
   }
   .header #hamburger:checked ~ label[for="hamburger"] {
     background-image: url("/img/close-menu.svg");
@@ -173,7 +174,6 @@ a:hover img {
   }
   .header #hamburger:checked ~ ul li {
     display: block;
-    margin: 0;
     width: 45%;
   }
   .header #hamburger:checked ~ ul li span {
