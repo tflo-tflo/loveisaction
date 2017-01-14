@@ -74,6 +74,7 @@
     ul li:not([class~="home"])
       display: none
       margin-left: 80px
+      opacity: 0
 
     #hamburger:checked ~ label[for="hamburger"]
       background-image: url("/img/close-menu.svg")
@@ -86,6 +87,7 @@
     #hamburger:checked ~ ul li
       display: block
       width: 45%
+      animation: mobile-menu-link 1s forwards
 
       span
         font-size: 1.5em
@@ -126,3 +128,9 @@
   height: 4em
   margin-right: 1.5em
   margin-bottom: 1em
+
+@keyframes mobile-menu-link {
+  100% {
+    opacity: 1.0
+  }
+}

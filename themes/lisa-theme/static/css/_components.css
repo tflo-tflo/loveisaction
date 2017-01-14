@@ -83,3 +83,23 @@ below($tablet)
     opacity: 0.9;
   }
 }
+@-moz-keyframes mobile-menu-link {
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes mobile-menu-link {
+  100% {
+    opacity: 1;
+  }
+}
+@-o-keyframes mobile-menu-link {
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes mobile-menu-link {
+  100% {
+    opacity: 1;
+  }
+}
