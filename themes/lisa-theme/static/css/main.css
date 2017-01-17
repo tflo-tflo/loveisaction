@@ -188,13 +188,6 @@ a:hover img {
     margin-top: 80px;
   }
 }
-.hero-animation {
-  animation: text-fade 3s;
-  animation-fill-mode: forwards;
-  opacity: 0;
-  top: 0;
-  left: 0;
-}
 .hero-animation:nth-child(1) {
   animation-delay: 0.2s;
 }
@@ -210,10 +203,54 @@ a:hover img {
     padding-left: 0;
   }
 }
+.hero-animation {
+  animation: text-fade 3s;
+  animation-fill-mode: forwards;
+  opacity: 0;
+  top: 0;
+  left: 0;
+  margin-bottom: 3em;
+}
+@media screen and (max-width: 1000px) {
+  .hero-animation {
+    margin-bottom: 2.25em;
+  }
+}
+@media screen and (max-width: 700px) {
+  .hero-animation {
+    margin-bottom: 1.875em;
+  }
+}
+@media screen and (max-width: 500px) {
+  .hero-animation {
+    margin-bottom: 1.5em;
+  }
+}
 .header-svg {
   height: 4em;
   margin-right: 1.5em;
   margin-bottom: 1em;
+}
+@media screen and (max-width: 1000px) {
+  .header-svg {
+    height: 3em;
+    margin-right: 1.125em;
+    margin-bottom: 0.75em;
+  }
+}
+@media screen and (max-width: 700px) {
+  .header-svg {
+    height: 2.5em;
+    margin-right: 0.875em;
+    margin-bottom: 0.625em;
+  }
+}
+@media screen and (max-width: 500px) {
+  .header-svg {
+    height: 2em;
+    margin-right: 0.7em;
+    margin-bottom: 0.5em;
+  }
 }
 @-moz-keyframes text-fade {
   0% {
