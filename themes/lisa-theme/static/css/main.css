@@ -188,13 +188,6 @@ a:hover img {
     margin-top: 80px;
   }
 }
-.hero-animation {
-  animation: text-fade 3s;
-  animation-fill-mode: forwards;
-  opacity: 0;
-  top: 0;
-  left: 0;
-}
 .hero-animation:nth-child(1) {
   animation-delay: 0.2s;
 }
@@ -210,21 +203,26 @@ a:hover img {
     padding-left: 0;
   }
 }
-#hero-first-line {
+.hero-animation {
+  animation: text-fade 3s;
+  animation-fill-mode: forwards;
+  opacity: 0;
+  top: 0;
+  left: 0;
   margin-bottom: 3em;
 }
 @media screen and (max-width: 1000px) {
-  #hero-first-line {
+  .hero-animation {
     margin-bottom: 2.25em;
   }
 }
 @media screen and (max-width: 700px) {
-  #hero-first-line {
+  .hero-animation {
     margin-bottom: 1.875em;
   }
 }
 @media screen and (max-width: 500px) {
-  #hero-first-line {
+  .hero-animation {
     margin-bottom: 1.5em;
   }
 }

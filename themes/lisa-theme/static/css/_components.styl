@@ -97,13 +97,6 @@
   +below($tablet)
     margin-top: 80px
 
-.hero-animation
-  animation: text-fade 3s
-  animation-fill-mode: forwards
-  opacity: 0
-  top: 0
-  left: 0
-
 @keyframes text-fade
   0%
     opacity: 0
@@ -124,7 +117,12 @@
   +below($desktop)
     padding-left: 0
 
-#hero-first-line
+.hero-animation
+  animation: text-fade 3s
+  animation-fill-mode: forwards
+  opacity: 0
+  top: 0
+  left: 0
   margin-bottom: 3em
 
   +below($desktop)
