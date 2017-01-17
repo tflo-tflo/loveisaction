@@ -210,6 +210,24 @@ a:hover img {
     padding-left: 0;
   }
 }
+#hero-first-line {
+  margin-bottom: 3em;
+}
+@media screen and (max-width: 1000px) {
+  #hero-first-line {
+    margin-bottom: 2.25em;
+  }
+}
+@media screen and (max-width: 700px) {
+  #hero-first-line {
+    margin-bottom: 1.875em;
+  }
+}
+@media screen and (max-width: 500px) {
+  #hero-first-line {
+    margin-bottom: 1.5em;
+  }
+}
 .header-svg {
   height: 4em;
   margin-right: 1.5em;

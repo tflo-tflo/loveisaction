@@ -46,6 +46,12 @@ below($tablet)
   width: 50%;
   float: left;
 }
+#hero-first-line {
+  margin-bottom: 3em;
+below($desktop)
+below(700px)
+below($tablet)
+}
 .header-svg {
   height: 4em;
   margin-right: 1.5em;
