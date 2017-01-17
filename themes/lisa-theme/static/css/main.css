@@ -80,15 +80,12 @@ a {
   border-bottom: 1px solid #09b3f7;
   display: inline;
   transition: border-bottom 2s, background-color 2s ease;
-/*transition: background-color 2s ease*/
-/*margin-bottom: 20px*/
-/*margin-top: 20px*/
 }
 a:hover,
 a:active {
   text-decoration: none;
   background-color: #f9ffcc;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid transparent;
 /*transition: all 2s ease*/
   transition: border-bottom 2s, background-color 2s ease;
 /*transition: border-bottom 2s ease*/
