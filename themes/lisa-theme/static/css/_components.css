@@ -50,6 +50,9 @@ below($tablet)
   height: 4em;
   margin-right: 1.5em;
   margin-bottom: 1em;
+below($desktop)
+below(700px)
+below($tablet)
 }
 @-moz-keyframes text-fade {
   0% {

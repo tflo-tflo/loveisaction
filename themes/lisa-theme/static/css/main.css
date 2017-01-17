@@ -215,6 +215,27 @@ a:hover img {
   margin-right: 1.5em;
   margin-bottom: 1em;
 }
+@media screen and (max-width: 1000px) {
+  .header-svg {
+    height: 3em;
+    margin-right: 1.125em;
+    margin-bottom: 0.75em;
+  }
+}
+@media screen and (max-width: 700px) {
+  .header-svg {
+    height: 2.5em;
+    margin-right: 0.9375em;
+    margin-bottom: 0.625em;
+  }
+}
+@media screen and (max-width: 500px) {
+  .header-svg {
+    height: 2em;
+    margin-right: 0.75em;
+    margin-bottom: 0.5em;
+  }
+}
 @-moz-keyframes text-fade {
   0% {
     opacity: 0;
