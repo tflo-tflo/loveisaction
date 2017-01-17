@@ -76,16 +76,35 @@ h4 {
 a {
   color: #09b3f7;
   font-size: 100%;
+  text-decoration: none;
+  position: relative;
+}
+a::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 0;
+  left: 0;
+  bottom: 2px;
+  border-bottom: 1px solid #09b3f7;
+  transition: all 0.25s ease;
+  opacity: 1;
 }
 a:hover,
 a:visited,
 a:active {
   text-decoration: none;
   background-color: #f9ffcc;
+  transition: all 0.25s ease;
+}
+a:hover::after,
+a:focus::after {
+  opacity: 0;
 }
 a:hover img {
   background-color: #f9ffcc;
   border-color: #fff;
+  transition: all 2s ease;
 }
 .content {
   padding: 1em;
