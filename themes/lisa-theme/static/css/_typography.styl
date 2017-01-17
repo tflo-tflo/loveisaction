@@ -47,8 +47,16 @@ a
   color: $brand
   font-size: 100%
   text-decoration: none
-  position: relative
+  border-bottom: 1px solid $brand
+  display: inline
+  transition: border-bottom 2s, background-color 2s ease
+  /*transition: background-color 2s ease*/
+  /*margin-bottom: 20px*/
+  /*margin-top: 20px*/
 
+
+
+/*
 a::after
   content:''
   position:absolute
@@ -59,20 +67,18 @@ a::after
   border-bottom: 1px solid $brand
   transition: all 0.25s ease
   opacity: 1
+  */
 
 a:hover,
-a:visited,
 a:active
   text-decoration: none
   background-color: $highlight
-  transition: all 0.25s ease
+  border-bottom: 1px solid white
+  transition: all 2s ease
+  /*transition: border-bottom 2s ease*/
+  /*transition: background-color 2s ease*/
 
-a:hover::after,
-a:focus::after
-  opacity: 0
 
 
 a:hover img
   background-color: $highlight
-  border-color: white
-  transition: all 2s ease
