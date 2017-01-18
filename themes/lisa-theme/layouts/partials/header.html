@@ -27,7 +27,7 @@
       </li>
       {{- range .Site.Pages.ByWeight }}
       <li class="left mr2 {{ .Slug }}">
-        <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+        <a class="menu-logo" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
           <span>{{ .Title }}</span>
         </a>
       </li>
