@@ -85,8 +85,13 @@ a:active {
   background-color: #f9ffcc;
 }
 a:hover img {
-  background-color: #f9ffcc;
-  border-color: #fff;
+  border-color: #09b3f7 #09b3f7 #f9ffcc #09b3f7;
+}
+.img-link {
+  font-size: 1.8em;
+}
+.menu-logo {
+  border-radius: 3em;
 }
 .content {
   padding: 1em;

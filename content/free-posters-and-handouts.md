@@ -24,7 +24,7 @@ Put them on your fridge, give 'em to your friends or print them out for events.
     </div>
     <div class="col-12">
       <div class="sm-col sm-col-12 md-col-6">
-        <a href="/pdf/loveisaction_poster.pdf" target="_blank"><img class="border" src="/img/poster.svg"></a>
+        <a class="img-link" href="/pdf/loveisaction_poster.pdf" target="_blank"><img class="border" src="/img/poster.svg"></a>
       </div>
     </div>
     <div class="sm-col-12 md-col-6">
@@ -44,7 +44,7 @@ Put them on your fridge, give 'em to your friends or print them out for events.
       <p>Dimensions: 8.5" x 11"</p>
     </div>
     <div class="sm-col sm-col-12 md-col-6">
-      <a href="/pdf/loveisaction_takeaway.pdf" target="_blank"><img class="border" src="/img/takeaway.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_takeaway.pdf" target="_blank"><img class="border" src="/img/takeaway.svg"></a>
     </div>
     <div class="sm-col-12 md-col-6">
       <div class="col-6-override">
@@ -66,40 +66,40 @@ Put them on your fridge, give 'em to your friends or print them out for events.
       <a href="/pdf/loveisaction_cards.pdf" target="_blank">Download all</a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
-      <a href="/pdf/loveisaction.pdf" target="_blank"><img src="/img/logo.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction.pdf" target="_blank"><img src="/img/logo.svg"></a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
-      <a href="/pdf/loveisaction_ask.pdf" target="_blank"><img src="/img/ask.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_ask.pdf" target="_blank"><img src="/img/ask.svg"></a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
-      <a href="/pdf/loveisaction_care.pdf" target="_blank"><img src="/img/care.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_care.pdf" target="_blank"><img src="/img/care.svg"></a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
-      <a href="/pdf/loveisaction_help.pdf" target="_blank"><img src="/img/help.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_help.pdf" target="_blank"><img src="/img/help.svg"></a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
-      <a href="/pdf/loveisaction_learn.pdf" target="_blank"><img src="/img/learn.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_learn.pdf" target="_blank"><img src="/img/learn.svg"></a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
-      <a href="/pdf/loveisaction_persevere.pdf" target="_blank"><img src="/img/persevere.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_persevere.pdf" target="_blank"><img src="/img/persevere.svg"></a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
-      <a href="/pdf/loveisaction_protect.pdf" target="_blank"><img src="/img/protect.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_protect.pdf" target="_blank"><img src="/img/protect.svg"></a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
-      <a href="/pdf/loveisaction_respect.pdf" target="_blank"><img src="/img/respect.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_respect.pdf" target="_blank"><img src="/img/respect.svg"></a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
-      <a href="/pdf/loveisaction_share.pdf" target="_blank"><img src="/img/share.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_share.pdf" target="_blank"><img src="/img/share.svg"></a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
-      <a href="/pdf/loveisaction_show-up.pdf" target="_blank"><img src="/img/show-up.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_show-up.pdf" target="_blank"><img src="/img/show-up.svg"></a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
-      <a href="/pdf/loveisaction_speak-up.pdf" target="_blank"><img src="/img/speak-up.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_speak-up.pdf" target="_blank"><img src="/img/speak-up.svg"></a>
     </div>
     <div class="sm-col sm-col-4 md-col-2">
-      <a href="/pdf/loveisaction_support.pdf" target="_blank"><img src="/img/support.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_support.pdf" target="_blank"><img src="/img/support.svg"></a>
     </div>
   </div>
 
@@ -113,22 +113,22 @@ Put them on your fridge, give 'em to your friends or print them out for events.
       <a href="/pdf/loveisaction_words.pdf" target="_blank">Download all</a>
     </div>
     <div class="sm-col sm-col-6 md-col-4 p2">
-      <a href="/pdf/loveisaction_words-01.pdf" target="_blank"><img class="border" src="/img/words01.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_words-01.pdf" target="_blank"><img class="border" src="/img/words01.svg"></a>
     </div>
     <div class="sm-col sm-col-6 md-col-4 p2">
-      <a href="/pdf/loveisaction_words-02.pdf" target="_blank"><img class="border" src="/img/words02.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_words-02.pdf" target="_blank"><img class="border" src="/img/words02.svg"></a>
     </div>
     <div class="sm-col sm-col-6 md-col-4 p2">
-      <a href="/pdf/loveisaction_words-03.pdf" target="_blank"><img class="border" src="/img/words03.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_words-03.pdf" target="_blank"><img class="border" src="/img/words03.svg"></a>
     </div>
     <div class="sm-col sm-col-6 md-col-4 p2">
-      <a href="/pdf/loveisaction_words-04.pdf" target="_blank"><img class="border" src="/img/words04.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_words-04.pdf" target="_blank"><img class="border" src="/img/words04.svg"></a>
     </div>
     <div class="sm-col sm-col-6 md-col-4 p2">
-      <a href="/pdf/loveisaction_words-05.pdf" target="_blank"><img class="border" src="/img/words05.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_words-05.pdf" target="_blank"><img class="border" src="/img/words05.svg"></a>
     </div>
     <div class="sm-col sm-col-6 md-col-4 p2">
-      <a href="/pdf/loveisaction_words-06.pdf" target="_blank"><img class="border" src="/img/words06.svg"></a>
+      <a class="img-link" href="/pdf/loveisaction_words-06.pdf" target="_blank"><img class="border" src="/img/words06.svg"></a>
     </div>
   </div>
 
