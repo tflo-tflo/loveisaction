@@ -59,7 +59,7 @@
       flex-direction: column
       justify-content: center
       position: fixed
-      align-items: center
+      align-items: flex-start
       width: 100%
 
       .home
@@ -73,6 +73,8 @@
 
     ul li:not([class~="home"])
       display: none
+      margin-left: 80px
+      opacity: 0
 
     #hamburger:checked ~ label[for="hamburger"]
       background-image: url("/img/close-menu.svg")
@@ -84,8 +86,8 @@
 
     #hamburger:checked ~ ul li
       display: block
-      margin: 0
       width: 45%
+      animation: mobile-menu-link 1s forwards
 
       span
         font-size: 1.5em
@@ -94,13 +96,6 @@
 .header + div
   +below($tablet)
     margin-top: 80px
-
-.hero-animation
-  animation: text-fade 3s
-  animation-fill-mode: forwards
-  opacity: 0
-  top: 0
-  left: 0
 
 @keyframes text-fade
   0%
@@ -121,3 +116,46 @@
 .sm-col-12
   +below($desktop)
     padding-left: 0
+
+.hero-animation
+  animation: text-fade 3s
+  animation-fill-mode: forwards
+  opacity: 0
+  top: 0
+  left: 0
+  margin-bottom: 3em
+
+  +below($desktop)
+    margin-bottom: 2.25em
+
+  +below(700px)
+    margin-bottom: 1.875em
+
+  +below($tablet)
+    margin-bottom: 1.5em
+
+.header-svg
+  height: 4em
+  margin-right: 1.5em
+  margin-bottom: 1em
+
+  +below($desktop)
+    height: 3em
+    margin-right: 1.125em
+    margin-bottom: .75em
+
+  +below(700px)
+    height: 2.5em
+    margin-right: .875em
+    margin-bottom: .625em
+
+  +below($tablet)
+    height: 2em
+    margin-right: .7em
+    margin-bottom: .5em
+
+@keyframes mobile-menu-link {
+  100% {
+    opacity: 1.0
+  }
+}

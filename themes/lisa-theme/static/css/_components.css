@@ -29,13 +29,6 @@ below($tablet)
 .header #hamburger {
   display: none;
 }
-.hero-animation {
-  animation: text-fade 3s;
-  animation-fill-mode: forwards;
-  opacity: 0;
-  top: 0;
-  left: 0;
-}
 .hero-animation:nth-child(1) {
   animation-delay: 0.2s;
 }
@@ -45,6 +38,25 @@ below($tablet)
 .col-6-override {
   width: 50%;
   float: left;
+}
+.hero-animation {
+  animation: text-fade 3s;
+  animation-fill-mode: forwards;
+  opacity: 0;
+  top: 0;
+  left: 0;
+  margin-bottom: 3em;
+below($desktop)
+below(700px)
+below($tablet)
+}
+.header-svg {
+  height: 4em;
+  margin-right: 1.5em;
+  margin-bottom: 1em;
+below($desktop)
+below(700px)
+below($tablet)
 }
 @-moz-keyframes text-fade {
   0% {
@@ -76,5 +88,25 @@ below($tablet)
   }
   100% {
     opacity: 0.9;
+  }
+}
+@-moz-keyframes mobile-menu-link {
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes mobile-menu-link {
+  100% {
+    opacity: 1;
+  }
+}
+@-o-keyframes mobile-menu-link {
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes mobile-menu-link {
+  100% {
+    opacity: 1;
   }
 }
