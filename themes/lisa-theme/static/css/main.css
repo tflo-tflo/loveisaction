@@ -38,6 +38,11 @@ body {
   padding: 0;
   width: 100%;
 }
+@media screen and (max-width: 500px) {
+  body {
+    line-height: 1.35em;
+  }
+}
 h1,
 h2,
 h3,
