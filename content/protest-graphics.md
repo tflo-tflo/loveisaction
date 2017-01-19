@@ -2,7 +2,7 @@
 date = "2017-01-16T17:00:07-08:00"
 title = "Protest Graphics"
 slug = "protest-graphics"
-weight = 4
+weight = 3
 
 +++
 
