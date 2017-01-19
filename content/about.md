@@ -8,13 +8,15 @@ weight = 4
 
 <div class="mt2 mb2">
   <h2 class="mb3">About</h2>
-  <div class="col-12 overflow-hidden">
+  <div class="col-12 overflow-hidden mt2">
     <div class="col-6 right">
-      <img class="fit" src="/img/lisa-about-011017.jpg">
+      <div class="pl4">
+        <img class="fit" src="/img/lisa-about-011017.jpg">
+      </div>
     </div>
     <div class="col-6 left">
       <div class="sm-col-12 md-col-10">
-        <h3 class="ml2 mr2 overflow-hidden"><span class="italic">“Life's most persistent and urgent question is, ‘What are you doing for others?’”</span>
+        <h3 class="mr2 overflow-hidden"><span class="italic">“Life's most persistent and urgent question is, ‘What are you doing for others?’”</span>
         </br>
         <span class="author right mr1">― Martin Luther King, Jr.</span></h3>
       </div>
