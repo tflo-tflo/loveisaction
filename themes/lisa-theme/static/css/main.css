@@ -33,10 +33,15 @@ body {
   color: #09b3f7;
   font-family: Akkurat-Reg, sans-serif;
   font-size: 14pt;
-  line-height: 1.25em;
+  line-height: 1.5em;
   margin: 0;
   padding: 0;
   width: 100%;
+}
+@media screen and (max-width: 500px) {
+  body {
+    line-height: 1.35em;
+  }
 }
 h1,
 h2,
@@ -58,11 +63,12 @@ h1 {
 }
 h2 {
   font-size: 2.5em;
-  line-height: 1em;
+  line-height: 1.1em;
 }
 h3 {
   font-size: 1.5em;
-  line-height: 1.25em;
+  line-height: 1.35em;
+  letter-spacing: -0.01em;
 }
 h4 {
   border-bottom: 2px solid #09b3f7;
@@ -84,8 +90,18 @@ a:active {
   background-color: #f9ffcc;
 }
 a:hover img {
-  background-color: #f9ffcc;
-  border-color: #fff;
+  border-color: #09b3f7 #09b3f7 #f9ffcc #09b3f7;
+}
+.img-link {
+  font-size: 1.8em;
+}
+.author {
+  font-size: 0.75em;
+}
+@media screen and (max-width: 500px) {
+  .author {
+    font-size: 12pt;
+  }
 }
 .content {
   padding: 1em;
@@ -94,6 +110,10 @@ a:hover img {
 .info {
   display: block;
   font-size: 0.75em;
+  line-height: 1.5em;
+}
+.menu-logo {
+  border-radius: 3em;
 }
 .header {
   margin-bottom: 1rem;
