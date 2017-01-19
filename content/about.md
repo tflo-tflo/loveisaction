@@ -10,11 +10,11 @@ weight = 4
   <h2 class="mb3">About</h2>
   <div class="col-12">
     <img class="fit" src="/img/lisa-about-011017.jpg">
-    <div class="col-8">
-      <div class="col-10">
-        <h3 class="mt4 ml2 overflow-hidden"><span class="italic">“Life's most persistent and urgent question is, 'What are you doing for others?’”</span>
+    <div class="sm-col-12 md-col-8">
+      <div class="sm-col-12 md-col-10">
+        <h3 class="mt4 ml2 mr2 overflow-hidden"><span class="italic">“Life's most persistent and urgent question is, 'What are you doing for others?’”</span>
         </br>
-        <span class="author right mr2">― Martin Luther King, Jr.</span></h3>
+        <span class="author right mr1">― Martin Luther King, Jr.</span></h3>
       </div>
       <p class="mt3">These are trying times. It seems all too easy to descend into cynicism about the state of our nation, our politics, and the world. But while there be many things that we’d like to change (and let’s face it, that’s always true), the point is that we all have the power, the agency, and the ability to improve the world around us. That will take different forms, and Love is Action is meant as a reminder of just how varied those forms really are.
       </br>
