@@ -8,11 +8,13 @@ weight = 4
 
 <div class="mt2 mb2">
   <h2 class="mb3">About</h2>
-  <div class="col-12">
-    <img class="fit" src="/img/lisa-about-011017.jpg">
-    <div class="sm-col-12 md-col-8">
+  <div class="col-12 overflow-hidden">
+    <div class="col-6 right">
+      <img class="fit" src="/img/lisa-about-011017.jpg">
+    </div>
+    <div class="col-6 left">
       <div class="sm-col-12 md-col-10">
-        <h3 class="mt4 ml2 mr2 overflow-hidden"><span class="italic">“Life's most persistent and urgent question is, 'What are you doing for others?’”</span>
+        <h3 class="ml2 mr2 overflow-hidden"><span class="italic">“Life's most persistent and urgent question is, ‘What are you doing for others?’”</span>
         </br>
         <span class="author right mr1">― Martin Luther King, Jr.</span></h3>
       </div>
@@ -29,9 +31,8 @@ weight = 4
       </br>
       The Love is Action Team</p>
     </div>
-    <div class="clearfix mt3 mb3">
-      <a href="/pdf/loveisaction_all-files.zip" target="_blank">Download all printable materials and graphics</a>
-    </div>
-
+  </div>
+  <div class="clearfix mt3 mb3">
+    <a href="/pdf/loveisaction_all-files.zip" target="_blank">Download all printable materials and graphics</a>
   </div>
 <div>
