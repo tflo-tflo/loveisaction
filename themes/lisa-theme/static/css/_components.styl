@@ -158,8 +158,29 @@
     margin-right: .7em
     margin-bottom: .5em
 
+.about-image
+  float: right
+
+  +below(52em)
+    float: none
+
+.about-copy
+  float: left
+
+  +below(52em)
+    float: none
+    padding-top: 2em
+
+.about-image-container
+  padding-left: 4rem
+
+  +below(52em)
+    padding-left: 0rem
+
+
 @keyframes mobile-menu-link {
   100% {
     opacity: 1.0
   }
+
 }

@@ -272,6 +272,31 @@ a:hover img {
     margin-bottom: 0.5em;
   }
 }
+.about-image {
+  float: right;
+}
+@media screen and (max-width: 52em) {
+  .about-image {
+    float: none;
+  }
+}
+.about-copy {
+  float: left;
+}
+@media screen and (max-width: 52em) {
+  .about-copy {
+    float: none;
+    padding-top: 2em;
+  }
+}
+.about-image-container {
+  padding-left: 4rem;
+}
+@media screen and (max-width: 52em) {
+  .about-image-container {
+    padding-left: 0rem;
+  }
+}
 @-moz-keyframes text-fade {
   0% {
     opacity: 0;

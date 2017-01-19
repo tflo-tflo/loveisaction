@@ -9,12 +9,12 @@ weight = 4
 <div class="mt2 mb2">
   <h2 class="mb3">About</h2>
   <div class="col-12 overflow-hidden mt2">
-    <div class="col-6 right">
-      <div class="pl4">
+    <div class="about-image sm-col-12 md-col-6">
+      <div class="about-image-container">
         <img class="fit" src="/img/lisa-about-011017.jpg">
       </div>
     </div>
-    <div class="col-6 left">
+    <div class="about-copy sm-col-12 md-col-6">
       <div class="sm-col-12 md-col-10">
         <h3 class="mr2 overflow-hidden"><span class="italic">“Life's most persistent and urgent question is, ‘What are you doing for others?’”</span>
         </br>
