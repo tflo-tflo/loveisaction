@@ -62,6 +62,18 @@ below($desktop)
 below(700px)
 below($tablet)
 }
+.about-image {
+  float: right;
+below(52em)
+}
+.about-copy {
+  float: left;
+below(52em)
+}
+.about-image-container {
+  padding-left: 4rem;
+below(52em)
+}
 @-moz-keyframes text-fade {
   0% {
     opacity: 0;
