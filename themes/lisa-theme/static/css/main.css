@@ -95,8 +95,13 @@ a:hover img {
 .img-link {
   font-size: 1.8em;
 }
-.menu-logo {
-  border-radius: 3em;
+.author {
+  font-size: 0.75em;
+}
+@media screen and (max-width: 500px) {
+  .author {
+    font-size: 12pt;
+  }
 }
 .content {
   padding: 1em;
@@ -106,6 +111,9 @@ a:hover img {
   display: block;
   font-size: 0.75em;
   line-height: 1.5em;
+}
+.menu-logo {
+  border-radius: 3em;
 }
 .header {
   margin-bottom: 1rem;
