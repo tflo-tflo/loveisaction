@@ -1,12 +1,12 @@
 +++
 date = "2017-01-16T17:00:07-08:00"
-title = "Protest Graphics"
+title = "Protest graphics"
 slug = "protest-graphics"
-weight = 3
+weight = 4
 
 +++
 
-<h2 class="mt2 mb3">Protest Graphics</h2>
+<h2 class="mt2 mb3">Protest graphics</h2>
 
 Making a sign for a march or a protest does not have to be hard or expensive.</br>
 Print from this page with an at-home printer, and follow the instructions below.
