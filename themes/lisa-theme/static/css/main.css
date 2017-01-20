@@ -1,7 +1,7 @@
 .no-mobile {
   display: none;
 }
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 510px) {
   .no-mobile {
     display: block;
   }
@@ -9,7 +9,7 @@
 .mobile-only {
   display: block;
 }
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 510px) {
   .mobile-only {
     display: none;
   }
@@ -24,7 +24,7 @@
   src: url("/fonts/lineto-akkurat-bold-c.woff") format('woff');
   font-weight: 400;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) {
   * {
     font-size: 12pt;
   }
@@ -38,7 +38,7 @@ body {
   padding: 0;
   width: 100%;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) {
   body {
     line-height: 1.35em;
   }
@@ -56,7 +56,7 @@ h1 {
   letter-spacing: -0.035em;
   line-height: 1em;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) {
   h1 {
     font-size: 3em;
   }
@@ -98,7 +98,7 @@ a:hover img {
 .author {
   font-size: 0.75em;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) {
   .author {
     font-size: 12pt;
   }
@@ -137,7 +137,7 @@ a:hover img {
 .header #hamburger {
   display: none;
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) {
   .header {
     position: fixed;
     left: 0;
@@ -195,15 +195,27 @@ a:hover img {
   }
   .header #hamburger:checked ~ ul li {
     display: block;
-    width: 45%;
+    width: 62%;
     animation: mobile-menu-link 1s forwards;
+    margin-bottom: 3.5em;
   }
   .header #hamburger:checked ~ ul li span {
     font-size: 1.5em;
-    line-height: 3;
+/*line-height: 3*/
+    line-height: 1.2;
   }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) and (max-width: 22em) {
+  .header ul li:not([class~="home"]) {
+    margin-left: 60px;
+  }
+}
+@media screen and (max-width: 510px) and (max-width: 20em) {
+  .header ul li:not([class~="home"]) {
+    margin-left: 40px;
+  }
+}
+@media screen and (max-width: 510px) {
   .header + div {
     margin-top: 80px;
   }
@@ -241,7 +253,7 @@ a:hover img {
     margin-bottom: 1.875em;
   }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) {
   .hero-animation {
     margin-bottom: 1.5em;
   }
@@ -265,7 +277,7 @@ a:hover img {
     margin-bottom: 0.625em;
   }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 510px) {
   .header-svg {
     height: 2em;
     margin-right: 0.7em;

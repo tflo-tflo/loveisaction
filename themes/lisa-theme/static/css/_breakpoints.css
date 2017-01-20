@@ -1,7 +1,7 @@
 .no-mobile {
   display: none;
 }
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 510px) {
   .no-mobile {
     display: block;
   }
@@ -9,7 +9,7 @@
 .mobile-only {
   display: block;
 }
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 510px) {
   .mobile-only {
     display: none;
   }
