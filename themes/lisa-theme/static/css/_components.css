@@ -9,6 +9,7 @@
 }
 .menu-logo {
   border-radius: 3em;
+  shape-rendering: geometricPrecision;
 }
 .header {
   margin-bottom: 1rem;
