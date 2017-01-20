@@ -103,6 +103,11 @@ a:hover img {
     font-size: 12pt;
   }
 }
+@media screen and (max-width: 510px) {
+  .about-copy h3 {
+    line-height: 1.2em;
+  }
+}
 .content {
   padding: 1em;
   max-width: 1200px;
@@ -295,12 +300,16 @@ a:hover img {
   }
 }
 .about-copy {
-  float: left;
+  padding-top: 2em;
+}
+.author {
+  float: right;
+  width: 100%;
+  margin-right: 2em;
 }
 @media screen and (max-width: 52em) {
-  .about-copy {
-    float: none;
-    padding-top: 2em;
+  .author {
+    margin-right: 1em;
   }
 }
 .about-image-container {

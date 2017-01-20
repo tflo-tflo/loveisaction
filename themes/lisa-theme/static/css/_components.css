@@ -68,7 +68,12 @@ below($tablet)
 below(52em)
 }
 .about-copy {
-  float: left;
+  padding-top: 2em;
+}
+.author {
+  float: right;
+  width: 100%;
+  margin-right: 2em;
 below(52em)
 }
 .about-image-container {
