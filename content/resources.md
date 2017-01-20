@@ -26,7 +26,7 @@ weight = 2
     </div>
     <div class="md-col lg-col-10 md-col-12 sm-col-12">
       <ul class="list-reset m0">
-        <li class="mb1"><a href="http://usa.gov/elected-officials" target="blank">Contact Federal Ellected Officials</a></li>
+        <li class="mb1"><a href="http://usa.gov/elected-officials" target="blank">Contact Federal Elected Officials</a></li>
         <li class="mb1"><a href="http://equalrightswashington.org" target="blank">Equal Rights Washington</a></li>
         <li class="mb1"><a href="http://injusticeboycott.com" target="blank">Injustice Boycott</a></li>
         <li class="mb1"><a href="http://southerncoalition.org" target="blank">Southern Coalition for Social Justice</a></li>
