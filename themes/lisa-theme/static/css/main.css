@@ -195,13 +195,12 @@ a:hover img {
   }
   .header #hamburger:checked ~ ul li {
     display: block;
-    width: 62%;
+    width: 69%;
     animation: mobile-menu-link 1s forwards;
     margin-bottom: 3.5em;
   }
   .header #hamburger:checked ~ ul li span {
     font-size: 1.5em;
-/*line-height: 3*/
     line-height: 1.2;
   }
 }
