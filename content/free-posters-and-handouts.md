@@ -1,8 +1,9 @@
 +++
 date = "2016-12-30T14:45:07-08:00"
-title = "Free posters"
-slug = "free-posters"
+slug = "Free Posters"
 weight = 3
+title = "Free Posters | Love is Action"
+description = "Print out some free posters to share what everyone can do."
 
 +++
 

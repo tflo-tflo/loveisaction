@@ -1,7 +1,8 @@
 +++
+title = "Resources | Love Is Action"
+description = "Here are some resources that could use your help."
 date = "2017-01-06T13:25:38-08:00"
-title = "Resources"
-slug = "resources"
+slug = "Resources"
 weight = 2
 
 +++
