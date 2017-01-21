@@ -1,11 +1,10 @@
 +++
 date = "2017-01-16T17:00:07-08:00"
-title = "Protest graphics"
-slug = "protest-graphics"
+slug = "Protest Graphics"
 weight = 4
-
+title = "Free Protest Signs | Love is Action"
+description = "Headed for a march? Print out some free protest signs to get you started."
 +++
-
 <h2 class="mt2 mb3">Protest graphics</h2>
 
 Making a sign for a march or a protest does not have to be hard or expensive.</br>
