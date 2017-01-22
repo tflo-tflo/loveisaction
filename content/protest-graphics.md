@@ -15,14 +15,14 @@ description = "Headed for a march? Print out some free protest signs to get you 
     </p>
     <h4>Materials needed</h4>
     <ul class="mb1">
-      <li>1 printed protest graphic<a href="#graphics"><span class="info">See below</span></a></li>
+      <li>1 printed protest graphic<span class="info">See below</span></li>
       <li>Cardboard box (like 2 large cereal boxes, a shipping box, or poster board)</li>
       <li>Strong clear tape (like packing tape)</li>
       <li>Scissors</li>
     </ul>
   </div>
   <div class="sm-col md-col-4">
-    <img src="/img/LisA-graphics.jpg">
+    <img class="fit" src="/img/LisA-graphics.jpg">
   </div>
 </div>
 
@@ -33,19 +33,19 @@ description = "Headed for a march? Print out some free protest signs to get you 
   <div class="sm-col-12 md-col-6 lg-col-6 mb2">
     <ol>
       <li class="mb2">Print one of the PDFs at the bottom of this page. It will print on 4 sheets of paper, on standard 8x11.5" letter size. </br>
-      <img src="/img/inst-01.svg" width="350" height="auto"></li>
+      <img class="fit" src="/img/inst-01.svg" width="350" height="auto"></li>
       <li class="mb2">Following the dotted lines on the printed paper, either fold or cut off the excess paper.</br>
-      <img src="/img/inst-02.svg" width="350" height="auto"></li>
+      <img class="fit" src="/img/inst-02.svg" width="350" height="auto"></li>
       <li class="mb2">Put the pages together like a jigsaw puzzle, and hold together with tape.</br>
-      <img src="/img/inst-03.svg" width="350" height="auto"></li>
+      <img class="fit" src="/img/inst-03.svg" width="350" height="auto"></li>
       <li class="mb2">Open the cereal boxes fully to lay them flat. The boxes can be cut open down one corner, or carefully pulled open along glue lines.</br>
-      <img src="/img/inst-04.svg" width="350" height="auto"></li>
+      <img class="fit" src="/img/inst-04.svg" width="350" height="auto"></li>
       <li class="mb2">(Optional) Cut and remove the extra tabs.</br>
-      <img src="/img/inst-05.svg" width="350" height="auto"></li>
+      <img class="fit" src="/img/inst-05.svg" width="350" height="auto"></li>
       <li class="mb2">Lay the cereal boxes with the long edges next to each other. Then overlap the cereal boxes along the long edges. About 1-2 inches, or 1-2 finger widths.</br>
-      <img src="/img/inst-06a.svg" width="350" height="auto"></li>
+      <img class="fit" src="/img/inst-06a.svg" width="350" height="auto"></li>
       <li class="mb2">Tape the cereal boxes together. Flip the boxes over, and tape the back as well so that the sign is sturdier.</br>
-      <img src="/img/inst-06b.svg" width="350" height="auto"></li>
+      <img class="fit" src="/img/inst-06b.svg" width="350" height="auto"></li>
       <li class="mb2">Tape together the printed poster and the cereal boxes, and you’re good to go!</br>
       <img src="/img/inst-07.svg" width="350" height="auto"></li>
     </ol>
