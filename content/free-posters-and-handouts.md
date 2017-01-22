@@ -8,15 +8,12 @@ description = "Print out some free posters to share what everyone can do."
 +++
 
 <h2 class="mt2 mb3">Free posters, handouts, and graphics</h2>
-
-Please feel free to use any of the provided graphics and posters. </br>
-Put them on your fridge, give 'em to your friends or print them out for events.
+  <p>
+  Please feel free to use any of the provided graphics and posters. </br>
+  Put them on your fridge, give 'em to your friends or print them out for events.
+  </p>
+  <a href="/pdf/loveisaction_all-files.zip" target="_blank">Download all files</a>
 <div>
-
-  <div class="clearfix mt4">
-    <a href="/pdf/loveisaction_all-files.zip" target="_blank">Download all files</a>
-  </div>
-
 
   <div class="clearfix mt4">
     <div class="col-12 mb2">
@@ -24,16 +21,15 @@ Put them on your fridge, give 'em to your friends or print them out for events.
       <p>Dimensions: 18" x 24"</p>
     </div>
     <div class="col-12">
-      <div class="sm-col sm-col-12 md-col-6">
-        <a class="img-link" href="/pdf/loveisaction_poster.pdf" target="_blank"><img class="border" src="/img/poster.svg"></a>
+      <div class="sm-col sm-col-6 md-col-6">
+        <a class="img-link" href="/pdf/loveisaction_poster.pdf" target="_blank"><img class="border mb2" src="/img/LisA-poster-a.jpg"></a>
+        </br>
+        <span class="center">Front</span>
       </div>
-    </div>
-    <div class="sm-col-12 md-col-6">
-      <div class="col-6-override">
-        <p class="center">Front</p>
-      </div>
-      <div class="col-6-override">
-        <p class="center">Back</p>
+      <div class="sm-col sm-col-6 md-col-6">
+        <a class="img-link" href="/pdf/loveisaction_poster.pdf" target="_blank"><img class="border mb2" src="/img/LisA-poster-b.jpg"></a>
+        </br>
+        <span class="center">Back</span>
       </div>
     </div>
   </div>
@@ -44,16 +40,8 @@ Put them on your fridge, give 'em to your friends or print them out for events.
       <h4>Takeaway</h4>
       <p>Dimensions: 8.5" x 11"</p>
     </div>
-    <div class="sm-col sm-col-12 md-col-6">
-      <a class="img-link" href="/pdf/loveisaction_takeaway.pdf" target="_blank"><img class="border" src="/img/takeaway.svg"></a>
-    </div>
-    <div class="sm-col-12 md-col-6">
-      <div class="col-6-override">
-        <p class="center">Front</p>
-      </div>
-      <div class="col-6-override">
-        <p class="center">Back</p>
-      </div>
+    <div class="col">
+      <a class="img-link" href="/pdf/loveisaction_takeaway.pdf" target="_blank"><img class="border" src="/img/LisA-takeaways.jpg"></a>
     </div>
   </div>
 
