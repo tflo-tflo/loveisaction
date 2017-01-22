@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# remove old build/public dir
+rm -rf public
+
+# rebuild public dir
+hugo
+
 # cd into correct dir
 cd public
 
