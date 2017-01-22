@@ -108,9 +108,6 @@ a:hover img {
     line-height: 1.2em;
   }
 }
-img {
-  width: 100%;
-}
 .content {
   padding: 1em;
   max-width: 1200px;
