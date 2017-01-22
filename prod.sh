@@ -11,5 +11,6 @@ deployId=`expr "$deployOutput" : '.*\/\/\(.*sh\)'`
 
 #run alias command against deploy id and domain
 now alias set $deployId loveisaction.us
+now alias set $deployId www.loveisaction.us
 
 # PROFIT
