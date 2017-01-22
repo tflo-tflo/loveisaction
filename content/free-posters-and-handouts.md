@@ -22,12 +22,12 @@ description = "Print out some free posters to share what everyone can do."
     </div>
     <div class="col-12">
       <div class="sm-col sm-col-6 md-col-6">
-        <a class="img-link" href="/pdf/loveisaction_poster.pdf" target="_blank"><img class="border mb2" src="/img/LisA-poster-a.jpg"></a>
+        <a class="img-link" href="/pdf/loveisaction_poster.pdf" target="_blank"><img class="border mb2 fit" src="/img/LisA-poster-a.jpg"></a>
         </br>
         <span class="center">Front</span>
       </div>
       <div class="sm-col sm-col-6 md-col-6">
-        <a class="img-link" href="/pdf/loveisaction_poster.pdf" target="_blank"><img class="border mb2" src="/img/LisA-poster-b.jpg"></a>
+        <a class="img-link" href="/pdf/loveisaction_poster.pdf" target="_blank"><img class="border mb2 fit" src="/img/LisA-poster-b.jpg"></a>
         </br>
         <span class="center">Back</span>
       </div>
@@ -41,7 +41,7 @@ description = "Print out some free posters to share what everyone can do."
       <p>Dimensions: 8.5" x 11"</p>
     </div>
     <div class="col">
-      <a class="img-link" href="/pdf/loveisaction_takeaway.pdf" target="_blank"><img class="border" src="/img/LisA-takeaways.jpg"></a>
+      <a class="img-link" href="/pdf/loveisaction_takeaway.pdf" target="_blank"><img class="border fit" src="/img/LisA-takeaways.jpg"></a>
     </div>
   </div>
 
