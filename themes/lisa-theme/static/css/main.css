@@ -108,6 +108,34 @@ a:hover img {
     line-height: 1.2em;
   }
 }
+.content-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  background-color: #fff;
+  margin: 0.5em;
+  width: 280px;
+}
+.card img {
+  width: 280px;
+  object-fit: contain;
+}
+.card-caption {
+  box-shadow: 4px 4px #09b3f7;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.card-caption span {
+  padding-top: 0.25em;
+  padding-left: 0.25em;
+}
+.card-caption img {
+  height: 3em;
+  width: 3em;
+  align-self: flex-end;
+}
 .content {
   padding: 1em;
   max-width: 1200px;
